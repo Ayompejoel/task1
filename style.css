@@ -23,6 +23,9 @@
 button{
     transition: 300ms;
 }
+p{
+    columns: ;
+}
 
 button:hover{
     transition: 300ms;
